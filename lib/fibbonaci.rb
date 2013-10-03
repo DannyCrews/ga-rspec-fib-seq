@@ -16,4 +16,4 @@ def fibbonaci_seq(num)
   return array
 end
 
-puts fibbonaci_seq(5)
+puts fibbonaci_seq(3)
