@@ -1,7 +1,7 @@
 
 # produces a fibbonaci sequence in an array
 def fibbonaci_seq(num)
-   array = [0]
+  
 
   num.times do |i|
     if i==0
@@ -15,5 +15,3 @@ def fibbonaci_seq(num)
 
   return array
 end
-
-puts fibbonaci_seq(3)
